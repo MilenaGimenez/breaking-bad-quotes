@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-quotes/static/css/main.573f24f8.chunk.css",
+    "main.js": "/breaking-bad-quotes/static/js/main.a0e71d5c.chunk.js",
+    "main.js.map": "/breaking-bad-quotes/static/js/main.a0e71d5c.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-quotes/static/js/runtime-main.8d834025.js",
+    "runtime-main.js.map": "/breaking-bad-quotes/static/js/runtime-main.8d834025.js.map",
+    "static/js/2.d2cccd28.chunk.js": "/breaking-bad-quotes/static/js/2.d2cccd28.chunk.js",
+    "static/js/2.d2cccd28.chunk.js.map": "/breaking-bad-quotes/static/js/2.d2cccd28.chunk.js.map",
+    "index.html": "/breaking-bad-quotes/index.html",
+    "static/css/main.573f24f8.chunk.css.map": "/breaking-bad-quotes/static/css/main.573f24f8.chunk.css.map",
+    "static/js/2.d2cccd28.chunk.js.LICENSE.txt": "/breaking-bad-quotes/static/js/2.d2cccd28.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breaking-bad-quotes/static/media/logo.0f9b6e90.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d834025.js",
+    "static/js/2.d2cccd28.chunk.js",
+    "static/css/main.573f24f8.chunk.css",
+    "static/js/main.a0e71d5c.chunk.js"
+  ]
+}
